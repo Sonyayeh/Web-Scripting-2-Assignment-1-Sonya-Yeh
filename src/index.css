@@ -1,0 +1,15 @@
+/* I am importing tailwind CSS that includes the abse, components and utilites into the project*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* I am importing a google font by using @import */
+@import url('https://fonts.googleapis.com/css2?family=Delius&display=swap');
+/* I am styling the font's weight and style based on how I want
+but for some reason yellow texts kept on showing up in the terminal and I don't know why
+Though it is working just fine so I don't think there are any problems */
+body {
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
+}

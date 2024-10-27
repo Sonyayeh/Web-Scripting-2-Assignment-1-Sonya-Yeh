@@ -1,0 +1,7 @@
+this is the description for Items.json
+I moved the items into Items.json and imported it into App.jsx, to which the data will be looped through the file
+Each items includes its id, name, price, and image URL.
+(FYI I priced them according to my own memory, I am not 100% sure if they are how much they are marketed)
+I decided to use the URL method instead of adding it into the assets folder because I think it will help the file to be less heavy when uploading.
+Some images are 'slightly' off in terms of sizes, hope you don't mind that!
+Also, each images are named with the flower breeds, but they are in a form of bouquet, thus there are some images that may include some other breeds of flowers. 

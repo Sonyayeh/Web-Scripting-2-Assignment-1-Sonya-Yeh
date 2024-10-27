@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+       "title": "Tulip",
+       "price": 9.99,
+        "artworkUrl": "https://i.imgur.com/ahM1WO6.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "Rose",
+        "price": 10.99,
+        "artworkUrl": "https://i.imgur.com/c1Y42kf.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Peony",
+        "price": 24.99,
+        "artworkUrl": "https://i.imgur.com/iBblBe6.jpeg"
+    },
+    {
+        "id": 4,
+        "title": "Lavender",
+        "price": 8.99,
+        "artworkUrl": "https://i.imgur.com/GOIfv2n.jpeg"
+    },
+    {
+        "id": 5,
+        "title": "Sunglower",
+        "price": 16.99,
+        "artworkUrl": "https://i.imgur.com/zAVZNtZ.jpeg"
+    },
+    {
+        "id": 6,
+        "title": "Hydrangea",
+        "price": 28.99,
+        "artworkUrl": "https://i.imgur.com/kCFub28.jpeg"
+    }
+  ]
