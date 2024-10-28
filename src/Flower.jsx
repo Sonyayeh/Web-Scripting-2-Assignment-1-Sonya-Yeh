@@ -46,5 +46,3 @@ function Flower({ flower, favourites, handleFavClick }) {
 }
 // this is the same as App.jsx
 export default Flower;
-
-// I don't know if this is working
