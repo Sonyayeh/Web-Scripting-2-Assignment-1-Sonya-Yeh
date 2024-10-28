@@ -1,5 +1,5 @@
 // here, I am importing all of the files into here
-// 
+// I am importing App.jsx and index.css from the other pages
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import App from './App.jsx'
