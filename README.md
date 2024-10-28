@@ -11,7 +11,8 @@ Currently, two official plugins are available:
 -------------------------------------------------
 Description:
 For this project, I want to create a fictional flower shop. I included the kinds of flowers I like. I designed the website based on the first flower I added, blue tulips. But because it would be too borning if it's just a plain background, I decided to add some gradient from blue to white, to mimic the blue sky. 
-(I included a text file for Items.jsx because it doesn't allow me to add any comments)
+
+For Items.jsx, I couldn't add any comments to it, but it basically includes the information of each card: ID, name, price, and the image URL. 
 
 Instructions to run the project:
 since npm is already installed, you can just go to terminal and type these in order:
